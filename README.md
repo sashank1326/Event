@@ -1,3 +1,3 @@
 # Event Management
 <br>
-This enables you create and attend Events
+This enables you to create and attend Events from our application
